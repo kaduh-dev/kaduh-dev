@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Eu sou o kadu
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Carlos Eduardo, tenho 22 anos curso Ciências da Computação na UNEMAT. Atualmente, estou fazendo curso de Desenvolvimento Fullstack. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[kadevs]([https://www.youtube.com/@Kaduh_devs])", onde ensino a criar projetos web..
 
